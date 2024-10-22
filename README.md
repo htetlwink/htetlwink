@@ -2,6 +2,10 @@
 👷 Electronic Engineer who love to code and write some automation scripts<br>⚡ Studied Electronic Engineering at Technological University (Hmawbi)<br>👨‍💻 In my previous job, I started do some the automation scripts and data collecting which i really instrested into it<br>💭 Currently learning about data analytics and advanced python programming<br>🛠️This is my repo i will share my works here
 
 
+## My Google Colab Notebooks:
+[![GoogleColab](https://img.shields.io/badge/google%20colab-blue?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1H-VeHaPXyor8Uq1ZgXzV0DTHRc6w-aG6?usp=sharing) [Photo Background Remover](https://colab.research.google.com/drive/1H-VeHaPXyor8Uq1ZgXzV0DTHRc6w-aG6?usp=sharing) </br>
+[![GoogleColab](https://img.shields.io/badge/google%20colab-blue?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1GpRrXDMQC1oieyQb-Va8aNOnF9Nt0t9F?usp=sharing) [Face Swapper](https://colab.research.google.com/drive/1GpRrXDMQC1oieyQb-Va8aNOnF9Nt0t9F?usp=sharing)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/htetlwinkyaw) 
 
